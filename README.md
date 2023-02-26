@@ -1,8 +1,7 @@
   Olá, esse repositorio foi criado para registrar meu desenvolvimento durante um treinamento de microserviços, mensaggeria e docker.
 se trata de um sistema simples de criação de cartão e cliente, sendo possivel avaliar se o cliente está apto ou não
 para adiquirir um cartão dependendo da sua faixa salaria e idade, no entanto esse não foi o foco principal mas sim a
-noção de microserviços e docker, por tanto existem situações com exception que não foram tratadas para manter a atenção
-no que estava aprendendo.<br>
+noção de microserviços,rabbitMQ e docker. <br>
 
 Tecnologias/Ferramentas:<br>
 DOCKER<br>
