@@ -24,10 +24,10 @@ KEYCLOAK tambem nescessario para gerar tokens de acesso para execução de get/p
 ABAIXO os repositorios dos microserviços desenvolvidos e ferrametas de cloud e gateway.<br>
 
 REPOSITORIOS<br>
--><a href="https://github.com/EzauMartins/CredCard-eurekaServer/" target="_blank">EUREKASERVE</a> 
+-><a href="https://github.com/EzauMartins/CredCard-eurekaServer/" target="_blank">EUREKASERVE</a> <br>
 -><a href="https://github.com/EzauMartins/CredCard-CloudGateway/" target="_blank">GETEWAY</a> ATUAL    
 -><a href="https://github.com/EzauMartins/CredCard-Card" target="_blank">MICROSERVICE CARTÃO</a>   
--><a href="https://github.com/EzauMartins/CredCard-clients-servics" target="_blank">MICROSERVICE CLIENTE</a><br>    
+-><a href="https://github.com/EzauMartins/CredCard-clients-servics" target="_blank">MICROSERVICE CLIENTE</a> 
 -><a href="https://github.com/EzauMartins/credcard-avaliadorcredito" target="_blank">MICROSERVICE AVALIADOR DE CREDITO</a>    
 
 (README EM EDIÇÂO)
